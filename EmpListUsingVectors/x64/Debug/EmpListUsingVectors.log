@@ -1,0 +1,4 @@
+﻿  EmpListUsingVectors.cpp
+C:\Users\faroo\Desktop\Visual Studio C++ Repo\EmpListUsingVectors\EmpListUsingVectors.cpp(37,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\faroo\Desktop\Visual Studio C++ Repo\EmpListUsingVectors\EmpListUsingVectors.cpp(60,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  EmpListUsingVectors.vcxproj -> C:\Users\faroo\Desktop\Visual Studio C++ Repo\EmpListUsingVectors\x64\Debug\EmpListUsingVectors.exe
